@@ -1,0 +1,1 @@
+# NextJS-full-stack-app
